@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+  color: #ffffff;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  text-align: center;
+}
